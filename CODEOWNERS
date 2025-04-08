@@ -1,0 +1,5 @@
+# This file defines who owns what in the repository
+# The last matching pattern has the most precedence
+
+# Default owner for everything in the repo
+* @SamyMechiche 

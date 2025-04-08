@@ -2,7 +2,7 @@
 
 A fun and interactive movie guessing game built with Python and Pygame. Test your movie knowledge as you try to identify movies from progressively clearer poster images!
 
-![Game Screenshot](assets\img\Capture d'écran 2025-04-08 160429.png)
+![Game Screenshot](assets/img/screenshot.png)
 
 ## 🎮 Features
 
@@ -65,7 +65,7 @@ python gtm_api.py
 - Type your guess and press Enter
 - Press ESC to pause the game
 - Use the "HINT" button to get clues
-- Use the "SKIP" button to pass (limited use)
+- Use the "SKIP" button to pass
 
 ## 🎨 Themes
 
@@ -75,11 +75,7 @@ python gtm_api.py
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+This project is licensed under my very own saying.
 
 ## 📧 Contact
 
